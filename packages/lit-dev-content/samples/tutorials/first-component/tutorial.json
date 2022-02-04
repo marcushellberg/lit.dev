@@ -1,0 +1,37 @@
+{
+    "header": "Build your first Lit Component!",
+    "difficulty": "Beginner",
+    "size": "small",
+    "duration": 60,
+    "category": "Build",
+    "steps": [
+      {
+        "title": "What we're building!"
+      },
+      {
+        "title": "Defining the Word Viewer"
+      },
+      {
+        "title": "Passing in properties with attributes"
+      },
+      {
+        "title": "Showing one single word!"
+      },
+      {
+        "title": "Lifecycle and cycling the words!"
+      },
+      {
+        "title": "Some Styles!"
+      },
+      {
+        "title": "Some Events!"
+      },
+      {
+        "title": "Change styles when play direction changes"
+      },
+      {
+        "title": "Fin!"
+      }
+    ]
+  }
+  
